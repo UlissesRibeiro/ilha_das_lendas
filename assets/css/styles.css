@@ -1,5 +1,7 @@
 @media screen and (max-width: 680px) and (min-width: 300px){
-
+    #cards_lendas{
+        text-align: center;
+    }
     #sociais a{
         background-color: rgb(40, 65, 207);
         color: white;
@@ -7,7 +9,9 @@
         border-radius: 25px;
         margin-top: 5px;
     }
-
+    #video{
+        width:cover;
+    }
     #agenda .btn{
         width: 100%;
     }
@@ -53,9 +57,12 @@
     }
 
 }
-
+/*/////////*/
 #main{
     margin-top: 90px;
+    text-align: center;
+}
+#cards_lendas{
     text-align: center;
 }
 
